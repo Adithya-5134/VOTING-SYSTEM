@@ -23,7 +23,8 @@ This is a web-based election system developed using **PHP (XAMPP)** that allows 
 ## 🖼️ Screenshots  
 
 ### 01 – Admin Login  
-![Admin Login](01.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/01.png)
+
 
 ### 02 – Voter Login  
 ![Voter Login](02.png)  
