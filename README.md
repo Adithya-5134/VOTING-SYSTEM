@@ -27,45 +27,44 @@ This is a web-based election system developed using **PHP (XAMPP)** that allows 
 
 
 ### 02 – Voter Login  
-![Voter Login](02.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/02.png)
+
 
 ### 03 – Admin Dashboard  
-![Dashboard](03.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/03.png)
+
 
 ### 04 – Election Configuration  
-![Election Config](04.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/04.png)  
+
 
 ### 05 – Election Positions
-![Election Config](05.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/05.png)
+
 
 ### 06 – Candidates List 
-![Election Config](06.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/06.png)
+
 
 ### 07 – Voters List 
-![Election Config](07.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/07.png)
+
 
 ### 08 – Votes  
-![Election Config](08.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/08.png)
+
 
 ### 09 – Election Results
-![Election Config](09.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/09.png)
+
 
 ### 10 – Winner Results
-![Election Config](10.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/10.png)
+
 
 ### 11 – Exporting the results as a PDF
-![Election Config](11.png)  
+![Admin Login](https://github.com/Adithya-5134/VOTING-SYSTEM/blob/main/images/11.png)
 
-
----
-
-## 🤝 Contributing  
-Contributions are welcome!  
-- Fork this repository  
-- Add new features / fix bugs  
-- Submit a **Pull Request** with a clear description  
-
----
 
 ## 📄 License  
 This project is released under the **MIT License**.  
@@ -74,4 +73,4 @@ This project is released under the **MIT License**.
 
 ## 📬 Contact  
 - 📧 Email: **ecadithya12@gmail.com**  
-- 📸 Instagram: [@adithya_1206](https://instagram.com/adithya_1206)  
+- 📸 Instagram: adithya_1206
